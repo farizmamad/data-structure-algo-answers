@@ -73,4 +73,4 @@ grid = [
 
 sol = Solution()
 print(f"Max Area: {sol.maxAreaOfIslandRecursive(grid)}")
-print(f"Max Area: {sol.maxAreaOfIslandIterative(grid)}")
+# print(f"Max Area: {sol.maxAreaOfIslandIterative(grid)}")
